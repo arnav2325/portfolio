@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-scroll";
-import Image from "../assets/img/about.webp";
+import Image from "../assets/img/about.webp.png";
 
 const About = () => {
   return (
@@ -15,7 +15,7 @@ const About = () => {
           <div className="flex flex-col items-center text-center lg:items-start lg:text-left">
             <div className="flex flex-col">
               <h2 className="text-3xl lg:text-4x1 font-medium lg:font-extrabold mb-3 before:content-about relative before:absolute before:opacity-40 before:-top-[2rem] before:hidden before:lg:block">
-                Ishika Srivas
+                Arnav Naithani
               </h2>
               <p className="mb-4 text-accent">Web Developer</p>
               <hr className="mb-8 opacity-5" />

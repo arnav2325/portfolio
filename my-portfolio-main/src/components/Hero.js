@@ -14,7 +14,7 @@ const Hero = () => {
           {/* left side */}
           <div className="flex-1 flex flex-col items-center lg:items-start">
             <p className="text-lg text-accent mb-3 lg:mb-4">
-              Hey, I'm Ishika 👋
+              Hey, I'm Arnav 👋
             </p>
 
             <h1 className="text-2xl leading-[28px] md:text-3xl md:leading-tight lg:text-5xl lg:leading-[1.2] font-bold md:tracking-[-1px] text-center lg:text-left">

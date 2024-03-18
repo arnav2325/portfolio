@@ -26,7 +26,7 @@ const Footer = () => {
           {/* logo */}
           <div>{/* <img src={Logo} alt="" /> */}</div>
           {/* copyright */}
-          <p> &copy;2023 ishikasrivas35. All rights reserved</p>
+          <p> &copy;2023 ArnavNaithani23. All rights reserved</p>
         </div>
       </div>
     </footer>

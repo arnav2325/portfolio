@@ -71,8 +71,8 @@ export const navigation = [
 export const social = [
   {
     icon: <FiGithub />,
-    href: "https://github.com/Ishikasrivas",
-    link: "https://github.com/Ishikasrivas",
+    href: "https://github.com/arnav2325",
+    link: "https://github.com/arnav2325",
   },
 ];
 
@@ -81,7 +81,7 @@ export const brands = [
   {
     img: FreelancerBrandIcon,
     href: "",
-    link: "https://www.freelancer.in/u/ishikasrivas35",
+    link: "https://www.freelancer.in/u/arnav2325",
   },
   {
     img: UpworkBrandIcon,
@@ -117,20 +117,20 @@ export const projectsData = [
     category: "web development",
     link: "https://social-media-app7953a8.netlify.app/",
   },
-  {
-    id: "3",
-    image: Project3,
-    name: "my-portfolio",
-    category: "web development",
-    link: "https://my-potfolio-nu.vercel.app/",
-  },
-  {
-    id: "4",
-    image: Project4,
-    name: "NewsAPI",
-    link: "https://github.com/Ishikasrivas/NewsDekho",
-    category: "web development",
-  },
+  // {
+  //   id: "3",
+  //   image: Project3,
+  //   name: "my-portfolio",
+  //   category: "web development",
+  //   link: "https://my-potfolio-nu.vercel.app/",
+  // },
+  // {
+  //   id: "4",
+  //   image: Project4,
+  //   name: "NewsAPI",
+  //   link: "https://github.com/Ishikasrivas/NewsDekho",
+  //   category: "web development",
+  // },
   {
     id: "5",
     image: Project5,
@@ -138,13 +138,13 @@ export const projectsData = [
     link:"https://music-app-lemon.vercel.app/",
     category: "web development",
   },
-  {
-    id: "6",
-    image: Project6,
-    name: "Vedic Ilaaj",
-    link:"https://github.com/Ishikasrivas/ayurvedh",
-    category: "web development",
-  },
+  // {
+  //   id: "6",
+  //   image: Project6,
+  //   name: "Vedic Ilaaj",
+  //   link:"https://github.com/Ishikasrivas/ayurvedh",
+  //   category: "web development",
+  // },
 ];
 
 // projects
@@ -233,7 +233,7 @@ export const contact = [
     icon: <FiMail />,
     title: "Have a question?",
     subtitle: "I am here to help you,click on the icon to contact me",
-    description: "Email me at ishikasrivas35@gmail.com",
+    description: "Email me at arnavnaithani2529@gmail.com",
   },
   {
     icon: <FiMapPin />,

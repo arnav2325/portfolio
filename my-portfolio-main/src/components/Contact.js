@@ -7,7 +7,7 @@ import { contact } from "../data";
 
 const Contact = () => {
   const handleEmailClick = () => {
-    window.location.href = "mailto:ishikasrivas35@gmail.com";
+    window.location.href = "mailto:arnavnaithani2529@gmail.com";
   };
 
   return (
